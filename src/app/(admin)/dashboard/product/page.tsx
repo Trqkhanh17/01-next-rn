@@ -1,8 +1,9 @@
-
-
 const ManageProductPage = () => {
     return (
-        <div className="">product</div>
+        <div>
+            ManageProductPage page
+        </div>
     )
 }
+
 export default ManageProductPage;
